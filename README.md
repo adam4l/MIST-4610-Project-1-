@@ -43,3 +43,10 @@ The database must accurately reflect the relationships between entities, such as
 - Sponsors and partners are linked to specific events, teams, or the club as a whole.
 
 Given the complexity and the range of activities and stakeholders involved, the database needs to be flexible, robust, and user-friendly, enabling efficient management of the club’s operations, strategic planning, and engagement with our community.
+
+Medical Records: An important aspect of managing a sports team is keeping track of players' health and fitness. This entity would include medical history, injury reports, rehabilitation progress, and fitness assessments for each player.
+Attributes: Player ID, date of record, type of injury or health issue, treatment received, recovery status, doctor's notes, and expected return date.
+Relationships: Each medical record is associated with a specific player. There might also be relationships to specific matches (if an injury occurred during a match) or to staff members (specifically medical staff who attended to the player).
+Financial Transactions: Managing the financial aspects of the club is crucial for its sustainability. This entity would cover all transactions related to the club’s operations, including player transfers, ticket sales for matches, sponsorships, and merchandise sales.
+Attributes: Transaction ID, date, type (income or expense), amount, source or destination (e.g., sponsor, merchandise, ticket sales), and associated contract or agreement (if applicable).
+Relationships: Financial transactions could be linked to various entities such as sponsors (sponsorship payments), players (salaries, transfer fees), and community events (expenses and income from events). Additionally, transactions related to the purchase or maintenance of facilities and equipment would also be relevant.
