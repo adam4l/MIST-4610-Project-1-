@@ -22,6 +22,10 @@ As the owner and operator of a soccer club that competes in regional leagues and
 
 10. **Community Events**: Initiatives and events organized by the club to engage with the community, promote sports, and support local causes.
 
+11. **Medical Records**: An important aspect of managing a sports team is keeping track of players' health and fitness. This entity would include medical history, injury reports, rehabilitation progress, and fitness assessments for each player.
+
+12. **Financial Transactions**: Managing the financial aspects of the club is crucial for its sustainability. This entity would cover all transactions related to the club’s operations, including player transfers, ticket sales for matches, sponsorships, and merchandise sales.
+
 ### Attributes:
 
 For each entity, there are specific attributes that need to be tracked. For example:
@@ -30,6 +34,8 @@ For each entity, there are specific attributes that need to be tracked. For exam
 - **Staff**: Name, role, qualifications, contact details, work schedule.
 - **Matches**: Date, time, venue, teams involved, result, individual player performances.
 - **Facilities**: Name, location, type (field, gym, etc.), capacity, availability.
+- **Medical Records**: Player ID, date of record, type of injury or health issue, treatment received, recovery status, doctor's notes, and expected return date.
+- **Financial Transactions**: Transaction ID, date, type (income or expense), amount, source or destination (e.g., sponsor, merchandise, ticket sales), and associated contract or agreement (if applicable).
 
 ### Relationships:
 
@@ -41,22 +47,12 @@ The database must accurately reflect the relationships between entities, such as
 - Matches are part of leagues/tournaments and involve teams.
 - Training sessions are scheduled for facilities and are attended by players.
 - Sponsors and partners are linked to specific events, teams, or the club as a whole.
+- Each medical record is associated with a specific player. There might also be relationships to specific matches (if an injury occurred during a match) or to staff members (specifically medical staff who attended to the player).
+- Financial transactions could be linked to various entities such as sponsors (sponsorship payments), players (salaries, transfer fees), and community events (expenses and income from events). Additionally, transactions related to the purchase or maintenance of facilities and equipment would also be relevant.
 
 Given the complexity and the range of activities and stakeholders involved, the database needs to be flexible, robust, and user-friendly, enabling efficient management of the club’s operations, strategic planning, and engagement with our community.
 
 Certainly, adding more entities can provide a richer and more comprehensive database for managing the soccer club's operations. Here are two additional entities that could be highly beneficial:
-
-### Entities:
-
-11. **Medical Records**: An important aspect of managing a sports team is keeping track of players' health and fitness. This entity would include medical history, injury reports, rehabilitation progress, and fitness assessments for each player.
-
-- **Attributes**: Player ID, date of record, type of injury or health issue, treatment received, recovery status, doctor's notes, and expected return date.
-- **Relationships**: Each medical record is associated with a specific player. There might also be relationships to specific matches (if an injury occurred during a match) or to staff members (specifically medical staff who attended to the player).
-
-12. **Financial Transactions**: Managing the financial aspects of the club is crucial for its sustainability. This entity would cover all transactions related to the club’s operations, including player transfers, ticket sales for matches, sponsorships, and merchandise sales.
-
-- **Attributes**: Transaction ID, date, type (income or expense), amount, source or destination (e.g., sponsor, merchandise, ticket sales), and associated contract or agreement (if applicable).
-- **Relationships**: Financial transactions could be linked to various entities such as sponsors (sponsorship payments), players (salaries, transfer fees), and community events (expenses and income from events). Additionally, transactions related to the purchase or maintenance of facilities and equipment would also be relevant.
 
 ### Extended Model Overview:
 
