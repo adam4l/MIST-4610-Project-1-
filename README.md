@@ -7,7 +7,7 @@
 
 1. Grace Conn [@graceconn](https://www.github.com/graceconn)
 2. Rhea Sabat [@rheasabat] 
-3. 
+3. Bryce James @brycejam
 4. 
 5. 
 
