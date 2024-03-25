@@ -32,10 +32,4 @@ TBD
 
 Name of the database: TBD
 
-Additional information: Each query listed above is marked in the database using stored procedures which can be called using the following format: 
-CALL TP_Q1();
-
-- **Medical Records** ensure player fitness and health are monitored and managed proactively, enhancing player welfare and performance.
-- **Financial Transactions** provide a comprehensive financial overview, enabling better budgeting, financial planning, and reporting. 
-
-Integrating these entities into the relational database will make it a powerful tool for managing the soccer club's diverse and dynamic needs.
+Additional information: TBD
