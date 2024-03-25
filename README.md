@@ -6,7 +6,7 @@
 ## Team Members:
 
 1. Grace Conn [@graceconn](https://www.github.com/graceconn)
-2. 
+2. Rhea Sabat
 3. 
 4. 
 5. 
