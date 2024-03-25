@@ -1,3 +1,18 @@
+# Team 1 Mist 4610 Group Project 5
+
+## Team Name: 
+21484 Group 5 
+
+## Team Members:
+
+1. Grace Conn [@graceconn](https://www.github.com/graceconn)
+2. 
+3. 
+4. 
+5. 
+
+## Problem Description:
+
 As the owner and operator of a soccer club that competes in regional leagues and participates in community events, our organization is multifaceted, involving a range of activities both on and off the pitch. Our primary operations include managing teams, organizing training sessions and matches, participating in leagues and tournaments, and engaging with the community through various events and programs. Here’s a breakdown of the key areas of our business that would likely be relevant for the development of our relational database:
 
 ### Entities:
