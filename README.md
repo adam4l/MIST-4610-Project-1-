@@ -45,7 +45,9 @@ This query lists the names of the sponsors and tournament locations for the spon
 Sponsors invest in tournaments to gain visibility and association with successful events. By listing sponsors alongside tournament names with 2 or more losses, tournament organizers can assess the performance of sponsored events. Sponsors might be interested in knowing how their brand is associated with tournaments, including both successes and challenges. For sponsors, understanding the performance of tournaments they are associated with can help them make informed decisions about future sponsorship opportunities.
 
 ### Query 3
-This query lists the match location if the number of wins is greater than 1. 
+This query lists the match location if the number of wins is greater than or equal to 2. 
+
+<img width="386" alt="Screenshot 2024-03-27 at 5 12 38 PM" src="https://github.com/Josh-Horwitz-1219/MIST-4610-Project-1-/assets/163042495/89404147-abc5-4d6a-b880-2c1efe91e74a">
 
 By listing the number of wins for each match location, teams and coaches can assess their performance in different environments. Understanding win records at specific locations helps identify strengths and weaknesses, enabling teams to adjust strategies, training regimens, or player selections accordingly.
 
