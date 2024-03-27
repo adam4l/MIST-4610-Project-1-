@@ -13,7 +13,7 @@
 
 ## Problem Description:
 
-TBD
+Our data model mirrors that of a high school soccer club. The central entity of our model is the club’s teams. These teams will have varying amounts of players, which is their main distinction from one another. In addition to teams, the club relies heavily on other entities such as its staff, coaches, players, matches, tournaments, sponsors, training facilities, and training sessions. We have been charged with modeling these relationships while also storing the data associated with these entities and relationships in a clear, readable, and accurate manner. Furthermore, we would like to use these relationships between the entities to gain insight and statistics about the club and its performance in different areas mentioned before such as matches and sponsors. 
 
 ## Data Model
 
