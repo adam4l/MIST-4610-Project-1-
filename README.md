@@ -52,7 +52,11 @@ This query lists the match location if the number of wins is greater than or equ
 By listing the number of wins for each match location, teams and coaches can assess their performance in different environments. Understanding win records at specific locations helps identify strengths and weaknesses, enabling teams to adjust strategies, training regimens, or player selections accordingly.
 
 ### Query 4
+List the names of the players' names, phone numbers, and team names for those who went to either the Keebler or Hudson facility and also won a match in Athens, Georgia.
 
+<img width="621" alt="Screenshot 2024-03-27 at 5 14 18 PM" src="https://github.com/Josh-Horwitz-1219/MIST-4610-Project-1-/assets/163042495/44fc0779-af32-456e-86da-4c7e170eb376">
+
+Connecting players who have won matches at specific locations fosters community building and networking opportunities within the sports organization. By facilitating interactions between successful players, organizers can encourage knowledge sharing, skill development, and camaraderie among participants. This networking aspect enhances the overall sense of belonging and engagement within the sports community, strengthening bonds between players, coaches, and organizers.
 
 ### Query 5
 
