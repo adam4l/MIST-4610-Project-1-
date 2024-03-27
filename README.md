@@ -39,7 +39,8 @@ Including the number of players on each team in the query enables analysis of te
 ### Query 2
 This query lists the names of the sponsors and tournament locations for the sponsors who have 2 or more losses at that tournament location. 
 
-
+<img width="621" alt="Screenshot 2024-03-27 at 5 09 28 PM" src="https://github.com/Josh-Horwitz-1219/MIST-4610-Project-1-/assets/163042495/0f43d584-d8fc-44ad-ad80-c9c7221ba1d9">
+<img width="616" alt="Screenshot 2024-03-27 at 5 09 47 PM" src="https://github.com/Josh-Horwitz-1219/MIST-4610-Project-1-/assets/163042495/341ce883-4ea4-48a4-b32d-263735f2d729">
 
 Sponsors invest in tournaments to gain visibility and association with successful events. By listing sponsors alongside tournament names with 2 or more losses, tournament organizers can assess the performance of sponsored events. Sponsors might be interested in knowing how their brand is associated with tournaments, including both successes and challenges. For sponsors, understanding the performance of tournaments they are associated with can help them make informed decisions about future sponsorship opportunities.
 
@@ -49,6 +50,7 @@ This query lists the match location if the number of wins is greater than 1.
 By listing the number of wins for each match location, teams and coaches can assess their performance in different environments. Understanding win records at specific locations helps identify strengths and weaknesses, enabling teams to adjust strategies, training regimens, or player selections accordingly.
 
 ### Query 4
+
 
 ### Query 5
 
