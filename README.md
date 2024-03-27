@@ -36,23 +36,31 @@ This query lists the player's full name, name of the team they are on, and their
 
 Including the number of players on each team in the query enables analysis of team composition and roster management practices. Teams with varying numbers of players may have different dynamics, strengths, and strategies. By examining the team size alongside their performance, coaches and team managers can assess the impact of roster decisions, player rotations, and recruitment strategies on team success.
 
-2.
+### Query 2
+This query lists the names of the sponsors and tournament locations for the sponsors who have 2 or more losses at that tournament location. 
 
-3.
 
-4.
 
-5.
+Sponsors invest in tournaments to gain visibility and association with successful events. By listing sponsors alongside tournament names with 2 or more losses, tournament organizers can assess the performance of sponsored events. Sponsors might be interested in knowing how their brand is associated with tournaments, including both successes and challenges. For sponsors, understanding the performance of tournaments they are associated with can help them make informed decisions about future sponsorship opportunities.
 
-6.
+### Query 3
+This query lists the match location if the number of wins is greater than 1. 
 
-7.
+By listing the number of wins for each match location, teams and coaches can assess their performance in different environments. Understanding win records at specific locations helps identify strengths and weaknesses, enabling teams to adjust strategies, training regimens, or player selections accordingly.
 
-8.
+### Query 4
 
-9.
+### Query 5
 
-10.
+### Query 6
+
+### Query 7
+
+### Query 8
+
+### Query 9
+
+### Query 10
 
 ## Database information:
 
