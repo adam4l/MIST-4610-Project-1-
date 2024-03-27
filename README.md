@@ -7,9 +7,9 @@
 
 1. Grace Conn [@graceconn](https://www.github.com/graceconn)
 2. Rhea Sabat [@rheasabat](https://www.github.com/rheasabat)
-3. Bryce James
-4. Adam Lebrun
-5. Josh Horwitz
+3. Bryce James [@brycejam](https://www.github.com/brycejam)
+4. Adam Lebrun [@adam4l](https://www.github.com/adam4l)
+5. Josh Horwitz [@Josh-Horwitz-1219](https://www.github.com/Josh-Horwitz-1219)
 
 ## Problem Description:
 
