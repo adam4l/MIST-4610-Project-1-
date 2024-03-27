@@ -26,7 +26,7 @@ TBD
 
 ## Queries:
 
-# Query 1  
+### Query 1  
 This query lists the player's full name, name of the team they are on, and their team’s number of players for teams that have 5 or more wins.
 
 <img width="613" alt="Screenshot 2024-03-27 at 4 57 14 PM" src="https://github.com/Josh-Horwitz-1219/MIST-4610-Project-1-/assets/163042495/2bb9df91-a4c4-4431-9f4f-520faf2fd590">
