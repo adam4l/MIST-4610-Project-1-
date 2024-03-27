@@ -20,6 +20,9 @@ Our data model mirrors that of a high school soccer club. The central entity of 
 Explanation of data model: 
 TBD
 
+<img width="618" alt="Screenshot 2024-03-27 at 5 02 42 PM" src="https://github.com/Josh-Horwitz-1219/MIST-4610-Project-1-/assets/163042495/6281cb5c-8e6e-4c9d-96a7-bd8803d4ee68">
+
+
 ## Data Dictionary:
 
 TBD
